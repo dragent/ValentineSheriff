@@ -59,6 +59,8 @@ Ces pages seront pour tous les membres du bureaux
   - [ ] Affichage
   - [ ] Modication suivant grade
   - [ ] Armement
+  - [ ] Commande
+  - [ ] Utilisation
   
 - [ ] Formation 
     - [ ] Affichage

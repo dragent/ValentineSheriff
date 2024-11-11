@@ -77,9 +77,13 @@ Ces pages seront pour les gradés du bureau
   - [ ] Reset Semaine ( sauvegarde des primes )
 
 - [ ] Données
-    - [ ] Informations
-    - [ ] Modèle
-    - [ ] Loi ( Modication )
+  - [ ] Informations
+  - [ ] Modèle
+  - [ ] Loi 
+  - [ ] Objet
+    - [ ] Légal
+    - [ ] Illégal
+  - [ ] Destruction 
 
 - [ ] Comptabilité
   - [ ] Ajout / Suppression
@@ -87,12 +91,6 @@ Ces pages seront pour les gradés du bureau
 
 - [ ] Formation
   - [ ] Validation
-
-- [ ] Objet ( bdd à faire )
-  - [ ] Légal
-  - [ ] Illégal
-
-- [ ] Destruction ( bdd à faire ) 
   
 ### Codage du bot
 - [ ] Envoie de Message dans un channel pour prévenir des amendes impayées ainsi que des rappels
